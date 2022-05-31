@@ -1,0 +1,10 @@
+-IC:\Program
+-IF:\gitWorkspaces\gitWorkspaces\classesObjects
+-IC:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IC:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IC:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IC:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IC:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IC:\Program Files\CodeBlocks\MinGW\x86_64-w64-mingw32\include
+-target
+x86_64-pc-windows-gnu
